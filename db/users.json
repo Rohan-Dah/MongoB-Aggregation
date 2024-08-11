@@ -1,0 +1,297 @@
+[{
+  "_id": {
+    "$oid": "66b6a0fe73bf5931a3e61301"
+  },
+  "index": 0,
+  "name": "Aurelia Gonzales",
+  "isActive": false,
+  "registered": "2015-02-11T04:22:39Z",
+  "age": 20,
+  "gender": "female",
+  "eyeColor": "green",
+  "favoriteFruit": "banana",
+  "company": {
+    "title": "YURTURE",
+    "email": "aureliagonzales@yurture.com",
+    "phone": "+1 (940) 501-3963",
+    "location": {
+      "country": "USA",
+      "address": "694 Hewes Street"
+    }
+  },
+  "tags": [
+    "enim",
+    "id",
+    "velit",
+    "ad",
+    "consequat"
+  ]
+},{
+  "_id": {
+    "$oid": "66b6a0fe73bf5931a3e61302"
+  },
+  "index": 1,
+  "name": "Kitty Snow",
+  "isActive": false,
+  "registered": "2018-01-23T04:46:15Z",
+  "age": 38,
+  "gender": "female",
+  "eyeColor": "blue",
+  "favoriteFruit": "apple",
+  "company": {
+    "title": "DIGITALUS",
+    "email": "kittysnow@digitalus.com",
+    "phone": "+1 (949) 568-3470",
+    "location": {
+      "country": "Italy",
+      "address": "154 Arlington Avenue"
+    }
+  },
+  "tags": [
+    "ut",
+    "voluptate",
+    "consequat",
+    "consequat"
+  ]
+},{
+  "_id": {
+    "$oid": "66b6a0fe73bf5931a3e61303"
+  },
+  "index": 2,
+  "name": "John Doe",
+  "isActive": true,
+  "registered": "2020-05-15T11:45:00Z",
+  "age": 29,
+  "gender": "male",
+  "eyeColor": "brown",
+  "favoriteFruit": "strawberry",
+  "company": {
+    "title": "TECHCORP",
+    "email": "johndoe@techcorp.com",
+    "phone": "+1 (850) 555-1234",
+    "location": {
+      "country": "Canada",
+      "address": "123 Tech Street"
+    }
+  },
+  "tags": [
+    "laboris",
+    "sunt",
+    "adipisicing"
+  ]
+},{
+  "_id": {
+    "$oid": "66b6a0fe73bf5931a3e61304"
+  },
+  "index": 3,
+  "name": "Emily Johnson",
+  "isActive": true,
+  "registered": "2019-03-12T09:30:25Z",
+  "age": 34,
+  "gender": "female",
+  "eyeColor": "hazel",
+  "favoriteFruit": "orange",
+  "company": {
+    "title": "INNOVA",
+    "email": "emilyjohnson@innova.com",
+    "phone": "+1 (760) 777-6543",
+    "location": {
+      "country": "Australia",
+      "address": "456 Innovation Blvd"
+    }
+  },
+  "tags": [
+    "elit",
+    "dolore",
+    "magna",
+    "eiusmod"
+  ]
+},{
+  "_id": {
+    "$oid": "66b6a0fe73bf5931a3e61305"
+  },
+  "index": 4,
+  "name": "Michael Brown",
+  "isActive": false,
+  "registered": "2017-08-22T13:55:18Z",
+  "age": 41,
+  "gender": "male",
+  "eyeColor": "blue",
+  "favoriteFruit": "mango",
+  "company": {
+    "title": "MICRODYN",
+    "email": "michaelbrown@microdyn.com",
+    "phone": "+1 (320) 123-9876",
+    "location": {
+      "country": "UK",
+      "address": "789 Dyn Street"
+    }
+  },
+  "tags": [
+    "esse",
+    "tempor",
+    "ex",
+    "minim"
+  ]
+},{
+  "_id": {
+    "$oid": "66b6a0fe73bf5931a3e61306"
+  },
+  "index": 5,
+  "name": "Sophia Davis",
+  "isActive": true,
+  "registered": "2021-02-05T14:20:30Z",
+  "age": 26,
+  "gender": "female",
+  "eyeColor": "brown",
+  "favoriteFruit": "grape",
+  "company": {
+    "title": "NETSOL",
+    "email": "sophiadavis@netsol.com",
+    "phone": "+1 (310) 888-7654",
+    "location": {
+      "country": "Germany",
+      "address": "321 Software Park"
+    }
+  },
+  "tags": [
+    "consectetur",
+    "commodo",
+    "proident"
+  ]
+},{
+  "_id": {
+    "$oid": "66b6a0fe73bf5931a3e61307"
+  },
+  "index": 6,
+  "name": "James Wilson",
+  "isActive": false,
+  "registered": "2016-07-18T07:15:45Z",
+  "age": 37,
+  "gender": "male",
+  "eyeColor": "green",
+  "favoriteFruit": "pear",
+  "company": {
+    "title": "CYBERNET",
+    "email": "jameswilson@cybernet.com",
+    "phone": "+1 (530) 432-8765",
+    "location": {
+      "country": "France",
+      "address": "654 Techno Street"
+    }
+  },
+  "tags": [
+    "laborum",
+    "aute",
+    "nisi",
+    "culpa"
+  ]
+},{
+  "_id": {
+    "$oid": "66b6a0fe73bf5931a3e61308"
+  },
+  "index": 7,
+  "name": "Olivia Martinez",
+  "isActive": true,
+  "registered": "2022-04-10T16:30:00Z",
+  "age": 30,
+  "gender": "female",
+  "eyeColor": "gray",
+  "favoriteFruit": "kiwi",
+  "company": {
+    "title": "BIOGEN",
+    "email": "oliviamartinez@biogen.com",
+    "phone": "+1 (212) 555-7777",
+    "location": {
+      "country": "Spain",
+      "address": "987 Science Road"
+    }
+  },
+  "tags": [
+    "pariatur",
+    "ullamco",
+    "incididunt"
+  ]
+},{
+  "_id": {
+    "$oid": "66b6a0fe73bf5931a3e61309"
+  },
+  "index": 8,
+  "name": "Liam Smith",
+  "isActive": true,
+  "registered": "2023-06-25T10:10:10Z",
+  "age": 28,
+  "gender": "male",
+  "eyeColor": "blue",
+  "favoriteFruit": "watermelon",
+  "company": {
+    "title": "MEDITECH",
+    "email": "liamsmith@meditech.com",
+    "phone": "+1 (415) 999-1234",
+    "location": {
+      "country": "Japan",
+      "address": "123 Medical Park"
+    }
+  },
+  "tags": [
+    "exercitation",
+    "dolor",
+    "qui",
+    "sint"
+  ]
+},{
+  "_id": {
+    "$oid": "66b6a0fe73bf5931a3e6130a"
+  },
+  "index": 9,
+  "name": "Isabella Garcia",
+  "isActive": false,
+  "registered": "2020-11-30T20:45:00Z",
+  "age": 32,
+  "gender": "female",
+  "eyeColor": "black",
+  "favoriteFruit": "peach",
+  "company": {
+    "title": "NANOSOFT",
+    "email": "isabellagarcia@nanosoft.com",
+    "phone": "+1 (617) 222-3333",
+    "location": {
+      "country": "Mexico",
+      "address": "456 Nano Blvd"
+    }
+  },
+  "tags": [
+    "deserunt",
+    "voluptate",
+    "amet",
+    "nostrud"
+  ]
+},{
+  "_id": {
+    "$oid": "66b6a0fe73bf5789a3e61301"
+  },
+  "index": 0,
+  "name": "Haveli",
+  "isActive": false,
+  "registered": "2015-25-11T04:22:39Z",
+  "age": 20,
+  "gender": "female",
+  "eyeColor": "green",
+  "favoriteFruit": "banana",
+  "company": {
+    "title": "YURTURE",
+    "email": "aureliagonzales@yurture.com",
+    "phone": "+1 (940) 501-3973",
+    "location": {
+      "country": "USA",
+      "address": "694 Hewes Street"
+    }
+  },
+  "tags": [
+    "enim",
+    "id",
+    "velit",
+    "ad",
+    "consequat"
+  ]
+}]
